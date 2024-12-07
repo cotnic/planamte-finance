@@ -1,0 +1,7 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard-view.css');
+@import url('./views/transactions-view.css');
+@import url('./views/accounts-view.css');
+@import url('./views/budget-view.css');
+@import url('./views/investments-view.css');
+@import url('./views/goals-view.css');
